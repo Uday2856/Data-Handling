@@ -1,0 +1,5 @@
+R helps you wrangle, clean, and summarize data effortlessly...
+
+Data handling is the process of importing, manipulating, and exporting data in R.
+It involves reading different types of files, such as CSV, Excel, or text files, and performing various operations on data frames, such as subsetting, merging, recoding, or imputing missing values.
+Data handling also includes working with dates and times, factors, lists, and vectors.
